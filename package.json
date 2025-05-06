@@ -1,0 +1,23 @@
+{
+  "name": "odin-node-info-site",
+  "version": "1.0.0",
+  "description": "Basic informational site built using NodeJS as part of The Odin Project's \"NodeJS Course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrylin03/odin-node-info-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrylin03/odin-node-info-site/issues"
+  },
+  "homepage": "https://github.com/henrylin03/odin-node-info-site#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
